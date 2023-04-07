@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cryptoconvertor/static/css/main.42a83e24.css",
-    "main.js": "/Cryptoconvertor/static/js/main.b8d8167e.js",
+    "main.css": "/Cryptoconvertor/static/css/main.2dbe2a18.css",
+    "main.js": "/Cryptoconvertor/static/js/main.e0ae10e7.js",
     "index.html": "/Cryptoconvertor/index.html",
-    "main.42a83e24.css.map": "/Cryptoconvertor/static/css/main.42a83e24.css.map",
-    "main.b8d8167e.js.map": "/Cryptoconvertor/static/js/main.b8d8167e.js.map"
+    "main.2dbe2a18.css.map": "/Cryptoconvertor/static/css/main.2dbe2a18.css.map",
+    "main.e0ae10e7.js.map": "/Cryptoconvertor/static/js/main.e0ae10e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.42a83e24.css",
-    "static/js/main.b8d8167e.js"
+    "static/css/main.2dbe2a18.css",
+    "static/js/main.e0ae10e7.js"
   ]
 }
